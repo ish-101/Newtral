@@ -1,0 +1,75 @@
+@import 'https://fonts.googleapis.com/css?family=Lobster&display=swap';
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 20rem;
+  text-align: center;
+  margin: 0;
+}
+body #main {
+  padding: 0 1rem;
+}
+body #main #head {
+  margin-bottom: 1rem;
+}
+body #main #head h1 {
+  font-family: "Lobster", cursive;
+  font-size: 2rem !important;
+  color: #009688;
+  margin-bottom: 0;
+  margin-top: 2rem;
+}
+body #main #head h3 {
+  margin: 0;
+}
+body #main #actions .buttons#process {
+  background-color: #009688;
+}
+body #main #actions .buttons#close {
+  background: darkslategray;
+}
+body #main #message {
+  height: 1rem;
+}
+body #settings {
+  padding: 1rem 2rem;
+  background: #E0E0E0;
+}
+body #settings h2.setting-text {
+  font-size: 1rem;
+  text-align: left;
+  margin-bottom: 0;
+}
+body #settings #slider {
+  width: calc(100% - 8rem);
+  display: inline-block;
+}
+body #settings .buttons#set {
+  background: black;
+  width: 4rem;
+  display: inline-block;
+  font-size: 1.25rem;
+  transform: scale(0.75);
+}
+body #settings #value {
+  width: 2rem;
+  display: inline-block;
+}
+
+.buttons {
+  display: inline-block;
+  width: 40%;
+  padding: 0.5rem;
+  font-size: 1.15rem;
+  font-weight: bold;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+  color: white;
+  margin: 0.125rem 0;
+  border-radius: 1rem;
+}
+
+/*# sourceMappingURL=popup.css.map */
