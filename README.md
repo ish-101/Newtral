@@ -1,6 +1,12 @@
 # Newtral - The Neutral News Filter
 Reading the news can be overwhelming and intimidating at times. It’s hard to tell what’s fact and what’s opinion. With Newtral, we bring your attention to the facts.
 
+## Submission
+Submitted for HackUTD Fall 2019
+### Awards
+- Cognizant: Best Text Objectivity Analysis
+- Overall top 5 among 110 submissions
+
 ## Inspiration
 Reading the news can be overwhelming and intimidating at times. You should be able to form your own opinions, but to do so you need unbiased sources. It’s hard to tell what’s fact and what’s opinion as it may be subtle. With Newtral, we bring your attention to the facts.
 
@@ -23,3 +29,9 @@ This was the first time we have made a Google Chrome extension so we learned how
 
 ## What's next for Newtral
 We found that TextBlob does not always accurately rank the subjectivity of questions, especially rhetorical or leading questions often found in news articles. In the future, we would add support for these types of questions. In addition to this, we currently support CNN, BBC, Fox News, and New York Times articles, but would like to add support for many more news sources in the future.
+
+## Demo
+https://www.youtube.com/watch?v=kJJ_b9R2dqg
+
+## Devpost
+https://devpost.com/software/newtral-the-neutral-news-filter
