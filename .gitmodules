@@ -1,0 +1,9 @@
+[submodule "ProjectNewsParser"]
+	path = ProjectNewsParser
+	url = https://github.com/SaloniSS/ProjectNewsParser
+[submodule "ProjectNewsServer"]
+	path = ProjectNewsServer
+	url = https://github.com/SaloniSS/ProjectNewsServer
+[submodule "ProjectNewsClient"]
+	path = ProjectNewsClient
+	url = https://github.com/SaloniSS/ProjectNewsClient
